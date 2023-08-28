@@ -1,3 +1,3 @@
-int a=10;
+int a=90;
 print(a)
 
